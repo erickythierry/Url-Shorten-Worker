@@ -33,7 +33,7 @@ Copy the `index.js` code from this project to Cloudflare Worker.
 Click Save and Deploy
 
 # Demo
-https://leva.us.to/
+https://convite.cf/
  
 
 
